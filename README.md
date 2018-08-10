@@ -1,2 +1,6 @@
 # Sprint-1-
 Constr. Appli. Moviles
+
+You must identify two real-life problems and propose a software-based solution for each problem. The solutions should be in the following domains: medicine/health, apps for people with disabilities, civic culture, smart cities. Your solutions have to use (i) mobile devices, (ii) a web platform for providing users with analytics on the data collected with the mobile devices, and (iii) a machine-learning-based backend. The solutions must include VUI (Voice-User-Interface) and context recognition capabilities. In addition, the solution must be supported on back-end services such as storage, location, authentication, etc. Note that each solution must be multi-device (i.e., must work properly on devices with different sizes and specifications), and native for two platforms (Android, Kotlin, or iOS). Novelty is also a requirement, it means, there should not be similar solutions in the markets and your ideas must be validated by a "shark tank" at the end of the iteration. The recommended list of sensors and data acquisition components to be used with the apps includes: GPS, camera, microphone, bluetooth, accelerometer, light intensity sensor, gyroscope, and steps sensor/monitor.
+
+
